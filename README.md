@@ -31,6 +31,9 @@ We can find sentiment distribution of any topic. For example, here we have analy
 
 - **Google**: The word cloud for "Google" likely highlights common terms associated with the company, such as "search", "engine", "ads", "YouTube", "Android", etc. This visualization can help identify key themes and topics of discussion related to Google.
 - **Facebook**: The word cloud for "Facebook" likely highlights terms such as "social", "media", "friends", "posts", "privacy", etc. This visualization can help identify key themes and topics of discussion related to Facebook.
+## Contact Information
+- <a href="https://www.linkedin.com/in/adithi-v-345604257/">Adithi Vellengara(LinkedIn)</a>
+- Email 📧: adithivs06@gmail.com
 
 ## Conclusion
 
